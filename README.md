@@ -10,6 +10,7 @@ Suite Healthcheck:
 
 /HEALTHCHECK
 Verificar se API está online
+
 Suite Contract :
 
 /GET
