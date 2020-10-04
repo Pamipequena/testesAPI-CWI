@@ -1,0 +1,17 @@
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\runners\AllTests.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\ping\requests\GetPingRequest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\suites\AllTests.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\ping\tests\GetPingTests.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\auth\requests\PostAuthRequest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\booking\requests\PutBookingRequest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\booking\tests\GetBookingTest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\suites\Acceptance.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\base\requests\BaseRequest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\utils\Utils.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\suites\Contract.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\auth\tests\PostAuthTests.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\base\tests\BaseTest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\booking\tests\PutBookingTest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\tests\booking\requests\GetBookingRequest.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\runners\Acceptance.java
+C:\Users\Pami\Documents\Cursos TI\Automacao de Testes\Treinamento CWI\testes API\restassured-api-testing\src\test\java\br\com\restassuredapitesting\runners\Contract.java

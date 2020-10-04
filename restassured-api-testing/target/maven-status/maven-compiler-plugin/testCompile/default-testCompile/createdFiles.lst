@@ -1,0 +1,17 @@
+br\com\restassuredapitesting\suites\AllTests.class
+br\com\restassuredapitesting\tests\booking\tests\GetBookingTest.class
+br\com\restassuredapitesting\tests\ping\requests\GetPingRequest.class
+br\com\restassuredapitesting\suites\Acceptance.class
+br\com\restassuredapitesting\tests\ping\tests\GetPingTests.class
+br\com\restassuredapitesting\utils\Utils.class
+br\com\restassuredapitesting\runners\AllTests.class
+br\com\restassuredapitesting\tests\auth\requests\PostAuthRequest.class
+br\com\restassuredapitesting\runners\Acceptance.class
+br\com\restassuredapitesting\tests\booking\requests\GetBookingRequest.class
+br\com\restassuredapitesting\tests\base\requests\BaseRequest.class
+br\com\restassuredapitesting\tests\booking\tests\PutBookingTest.class
+br\com\restassuredapitesting\tests\auth\tests\PostAuthTests.class
+br\com\restassuredapitesting\suites\Contract.class
+br\com\restassuredapitesting\runners\Contract.class
+br\com\restassuredapitesting\tests\base\tests\BaseTest.class
+br\com\restassuredapitesting\tests\booking\requests\PutBookingRequest.class

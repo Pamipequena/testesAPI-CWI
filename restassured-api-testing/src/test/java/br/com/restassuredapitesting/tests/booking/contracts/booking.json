@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "required": [
+    "firstname",
+    "lastname",
+    "totalprice",
+    "depositpaid",
+    "bookingdates",
+    "additionalneeds"
+  ],
+  "properties": {
+    "firstname": {
+      "$id": "#/properties/firstname",
+      "type": "string",
+      "title": "The firstname schema"
+    },
+    "lastname": {
+      "$id": "#/properties/lastname",
+      "type": "string",
+      "title": "The lastname schema"
+    },
+    "totalprice": {
+      "$id": "#/properties/totalprice",
+      "type": "integer",
+      "title": "The totalprice schema"
+    },
+    "depositpaid": {
+      "$id": "#/properties/depositpaid",
+      "type": "boolean",
+      "title": "The depositpaid schema"
+    },
+    "bookingdates": {
+      "$id": "#/properties/bookingdates",
+      "type": "object",
+      "title": "The bookingdates schema",
+      "required": [
+        "checkin",
+        "checkout"
+      ],
+      "properties": {
+        "checkin": {
+          "$id": "#/properties/bookingdates/properties/checkin",
+          "type": "string",
+          "title": "The checkin schema"
+        },
+        "checkout": {
+          "$id": "#/properties/bookingdates/properties/checkout",
+          "type": "string",
+          "title": "The checkout schema"
+        }
+      }
+    },
+    "additionalneeds": {
+      "$id": "#/properties/additionalneeds",
+      "type": "string",
+      "title": "The additionalneeds schema"
+    }
+  }
+}
